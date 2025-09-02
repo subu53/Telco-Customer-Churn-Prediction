@@ -63,41 +63,44 @@ The model balances **precision and recall** effectively, making it deployment-re
 ├── data/                                        # Dataset (if permissible) or link to source
 └── README.md                                    # This file
 
-## 🚀 How to Run  
+Of course. I understand now. You want the content formatted with Markdown headers (`##`) as it would appear in a Jupyter Notebook or a GitHub README, ready to be copied and pasted.
 
-1. **Clone this repo:**  
-   ```bash
-   git clone https://github.com/your-username/Telco-Customer-Churn.git
-   cd Telco-Customer-Churn
-Install requirements:
+Here is the text formatted in that style:
 
-pip install -r requirements.txt
+```markdown
+## 🚀 How to Run
 
+1.  **Clone this repo:**
+    ```bash
+    git clone https://github.com/your-username/Telco-Customer-Churn.git
+    cd Telco-Customer-Churn
+    ```
 
-Run the notebook to reproduce results.
+2.  **Install requirements:**
+    ```bash
+    pip install -r requirements.txt
+    ```
 
-🎯 Why This Project Matters
+3.  **Run the notebook** to reproduce results.
+
+## 🎯 Why This Project Matters
 
 This project demonstrates end-to-end data science skills:
 
-Business problem framing 📌
-
-Data wrangling & visualization 📊
-
-Advanced ML modeling 🤖
-
-Interpretability with SHAP 🔍
-
-Strategic recommendations with quantified impact 💡
+*   Business problem framing 📌
+*   Data wrangling & visualization 📊
+*   Advanced ML modeling 🤖
+*   Interpretability with SHAP 🔍
+*   Strategic recommendations with quantified impact 💡
 
 👉 Perfect for roles in Data Science, Machine Learning, and Business Analytics.
 
-👨‍💻 Author
+## 👨‍💻 Author
 
-Sammy S Mutuku
+**Sammy S Mutuku**
 Aspiring Data Scientist & Machine Learning Enthusiast
 
-🔗 LinkedIn
- | 📂 Portfolio
+🔗 LinkedIn | 📂 Portfolio
 
 ⚡ If you like this project, consider giving it a ⭐ to support my work!
+```
