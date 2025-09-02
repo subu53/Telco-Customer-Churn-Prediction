@@ -54,16 +54,6 @@ The model balances **precision and recall** effectively, making it deployment-re
 
 ---
 
-## 📂 Repository Structure  
-```bash
-├── notebooks/
-│   └── Telco_Churn_Pro_Notebook_Updated.ipynb   # Full project notebook
-├── reports/
-│   └── Telco_Churn_Executive_Summary.pdf        # One-page executive summary
-├── data/                                        # Dataset (if permissible) or link to source
-└── README.md                                    # This file
-
----
 
 ## 🚀 How to Run
 
