@@ -21,7 +21,29 @@ The dataset used is the **Telco Customer Churn Dataset** (Kaggle).
 - **Libraries:** Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn, XGBoost, SHAP  
 - **Techniques:** EDA, Feature Engineering, Classification Models, Model Explainability  
 - **Deliverables:** Notebook with analysis + executive summary PDF + business insights  
+## 📂 Repository Structure  
+```bash
+├── notebooks/
+│   └── Telco_Churn_Pro_Notebook_Updated.ipynb   # Full project notebook
+├── reports/
+│   └── Telco_Churn_Executive_Summary.pdf        # One-page executive summary
+├── data/                                        # Dataset (if permissible) or link to source
+└── README.md                                    # This file
 
+---
+
+---
+
+## 📂 Repository Structure  
+```bash
+├── notebooks/
+│   └── Telco_Churn_Pro_Notebook_Updated.ipynb   # Full project notebook
+├── reports/
+│   └── Telco_Churn_Executive_Summary.pdf        # One-page executive summary
+├── data/                                        # Dataset (if permissible) or link to source
+└── README.md                                    # This file
+
+---
 ---
 
 ## 📈 Key Results  
