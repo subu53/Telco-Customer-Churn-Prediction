@@ -61,9 +61,10 @@ The model balances **precision and recall** effectively, making it deployment-re
 ├── reports/
 │   └── Telco_Churn_Executive_Summary.pdf        # One-page executive summary
 ├── data/                                        # Dataset (if permissible) or link to source
-└── README.md                                    # This file
+└── README.md                                    # This file 
 
 ---
+
 ## 🚀 How to Run
 
 1.  **Clone this repo:**
