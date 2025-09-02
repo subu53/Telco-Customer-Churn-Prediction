@@ -62,3 +62,42 @@ The model balances **precision and recall** effectively, making it deployment-re
 │   └── Telco_Churn_Executive_Summary.pdf        # One-page executive summary
 ├── data/                                        # Dataset (if permissible) or link to source
 └── README.md                                    # This file
+
+## 🚀 How to Run  
+
+1. **Clone this repo:**  
+   ```bash
+   git clone https://github.com/your-username/Telco-Customer-Churn.git
+   cd Telco-Customer-Churn
+Install requirements:
+
+pip install -r requirements.txt
+
+
+Run the notebook to reproduce results.
+
+🎯 Why This Project Matters
+
+This project demonstrates end-to-end data science skills:
+
+Business problem framing 📌
+
+Data wrangling & visualization 📊
+
+Advanced ML modeling 🤖
+
+Interpretability with SHAP 🔍
+
+Strategic recommendations with quantified impact 💡
+
+👉 Perfect for roles in Data Science, Machine Learning, and Business Analytics.
+
+👨‍💻 Author
+
+Sammy S Mutuku
+Aspiring Data Scientist & Machine Learning Enthusiast
+
+🔗 LinkedIn
+ | 📂 Portfolio
+
+⚡ If you like this project, consider giving it a ⭐ to support my work!
