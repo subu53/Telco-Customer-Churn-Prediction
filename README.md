@@ -63,11 +63,7 @@ The model balances **precision and recall** effectively, making it deployment-re
 ├── data/                                        # Dataset (if permissible) or link to source
 └── README.md                                    # This file
 
-Of course. I understand now. You want the content formatted with Markdown headers (`##`) as it would appear in a Jupyter Notebook or a GitHub README, ready to be copied and pasted.
-
-Here is the text formatted in that style:
-
-```markdown
+---
 ## 🚀 How to Run
 
 1.  **Clone this repo:**
